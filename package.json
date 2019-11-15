@@ -1,0 +1,19 @@
+{
+  "name": "yayabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.4.2",
+    "dotenv": "^8.2.0",
+    "random-puppy": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
